@@ -33,6 +33,7 @@ printf("\"%s\". \n", message);
 int main(void)
 {
 printf("prog server \n");
+server();
 sleep(5);
 return (1);
 }
